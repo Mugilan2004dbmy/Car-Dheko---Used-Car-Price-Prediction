@@ -48,7 +48,7 @@ The **Car Price Prediction App** enables users to predict the resale value of a 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MohammedJeseem/Car-Dheko-Used-Car-Price-Prediction.git
+   git clone https://github.com/Mugilan2004dbmy/Car-Dheko---Used-Car-Price-Prediction.git
    cd Car-Dheko-Used-Car-Price-Prediction
    ```
 
